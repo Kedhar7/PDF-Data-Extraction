@@ -1,4 +1,4 @@
-# Automated PDF Data Extraction Tool
+# PDF Data Extraction Tool
 
 An advanced tool designed to automate the extraction and structuring of data from PDF files, converting unstructured information into organized Excel sheets. With robust multi-language support and high-accuracy checkbox recognition, this solution minimizes manual effort and enhances efficiency in data processing.
 
@@ -36,7 +36,7 @@ A powerful tool to extract data from multiple PDF documents, efficiently convert
 ---
 
 ## Key Achievements
-- Processed **500+ PDFs** with over **82% accuracy** in text and checkbox recognition.
+- Processed **50+ PDFs** with over **82% accuracy** in text and checkbox recognition.
 - Reduced manual data entry time by **80%**, enabling faster processing of large document sets.
 
 ---
@@ -83,7 +83,7 @@ We welcome contributions! Follow these steps:
 Special thanks to Sanjana for her invaluable support and contributions.
 
 ## Future Enhancements
-- Improve image and checkbox extraction functionalities.
+- Improving image and checkbox extraction functionalities.
 
 ## Contact
 For inquiries, please contact: kedharnadh800@gmail.com
