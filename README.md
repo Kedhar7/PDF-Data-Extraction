@@ -1,4 +1,3 @@
-```markdown
 # Automated PDF Data Extraction Tool
 
 An advanced tool designed to automate the extraction and structuring of data from PDF files, converting unstructured information into organized Excel sheets. With robust multi-language support and high-accuracy checkbox recognition, this solution minimizes manual effort and enhances efficiency in data processing.
