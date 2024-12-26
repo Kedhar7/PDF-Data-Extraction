@@ -6,7 +6,7 @@ An advanced tool designed to automate the extraction and structuring of data fro
 - **Text Extraction Automation**: Transforms unstructured text from PDFs into structured data within Excel files.
 - **Checkbox Recognition**: Detects and logs checkbox inputs with precise accuracy.
 - **Image Extraction**: Automatically identifies and extracts images embedded in PDF documents.
-- **Multi-language OCR Support**: Facilitates OCR and translation for various languages, including English, Spanish, French, German, Chinese (Simplified), Malay, Tamil, and Hindi
+- **Multi-language OCR Support**: Facilitates OCR and translation for various languages, including English, Spanish, French, German, Chinese (Simplified), Malay, Tamil, and Hindi.
 - **Streamlined Deployment**: Uses pyngrok for effortless deployment and accessibility.
 
 ## Technology Stack
